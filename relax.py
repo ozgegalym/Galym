@@ -3,7 +3,7 @@ graph = {
     "vacations": [
         {"name": "Aiko", "day": "30","month":"December"},
         {"name": "Uldana", "day": "01","month":"July"},
-        {"name": "Dastan", "day": "15","month":"September"},
+        {"name": "Kairat", "day": "25","month":"Novembergit"},
     ]
 }
 day_s=str(input("Введите день отпуска: "))
